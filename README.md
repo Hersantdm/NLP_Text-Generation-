@@ -1,6 +1,6 @@
 # NLP_Text-Generation-
-1. NLP Text Generation
-2. NLP 10 Wordnet
-3. NLP Spacy
-4. NLP Topic Modeling
-5. NLP Sentiment Analisyst
+1.NLP Gathering
+2. NLP Text Generation
+4. NLP Spacy
+5. NLP Topic Modeling
+6. NLP Sentiment Analisyst
